@@ -12,6 +12,23 @@ sudo apt-get install geany
 Install GIMP (Terminal)
 sudo apt-get install gimp
 
+Install GIT (Terminal)
+sudo apt-get install git
+
+git config:-
+
+open new repository on git
+
+to change directory cd 
+
+git init
+
+git add (file name...)
+
+git commit -m ""
+
+git push origni master	 
+
 
 
 
