@@ -1,0 +1,18 @@
+Install Local Host In Ubuntu (Synaptic Manager)
+1. PHP
+2. Apache2
+3. Mysql
+4.libapache2-mod-php7
+
+
+Install geany (Terminal)
+
+sudo apt-get install geany
+
+Install GIMP (Terminal)
+sudo apt-get install gimp
+
+
+
+
+
